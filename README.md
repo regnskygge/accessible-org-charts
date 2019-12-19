@@ -9,5 +9,4 @@ Slickmap was designed to make take unordered lists representing sitemaps and ren
 - [ ] Sassify the CSS
 - [ ] Add styles for two more levels of depth (currently 4) to handle larger org charts
 
-Ken Clinkenbeard
-University of Iowa Libraries
+– Ken Clinkenbeard, University of Iowa Libraries
